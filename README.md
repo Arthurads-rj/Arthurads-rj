@@ -6,6 +6,7 @@
   - MySQL
   - HTML5
   - CSS
+  - Python
 - Meu perfil será meu portfólio de projetos que criei ao longo da minha jornada como programador
 - Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 - E-mail: artlops.237@gmail.com
