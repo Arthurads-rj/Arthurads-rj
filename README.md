@@ -2,6 +2,11 @@ Olá! Eu me chamo Arthur. Aspirante a Cientista de dados ou Analista de dados, b
 
 - [Clique Aqui para ver meu repositório de Machine Learning](https://github.com/Arthurads-rj/machine-learning-portf-lio)
 
+Tenho conhecimentos em:
+- Front-end Básico: HTML, CSS, JavaScript
+- Back-end Básico com Python
+- Conhecimento básico em SQL, Análise de dados e algoritmos de Machine Learning
+
 Meu perfil será meu portfólio de projetos que criei ao longo da minha jornada como programador
 - Curso Superior em Análise e Desenvolvimento de Sistemas.
 - E-mail: artlops.237@gmail.com
