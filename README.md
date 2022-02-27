@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋, Eu sou Arthur Pacheco</h1>
-<h3 align="center">Sou um aspirante a Cientista ou Analista de Dados</h3>
+<h3 align="center">Sou um aspirante a Cientista e Analista de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando em pequenos [projetos de Machine Learning](https://github.com/Arthurads-rj/machine-learning-portf-lio)
+- 🔭 Atualmente estou trabalhando em pequenos [projetos de Machine Learning](https://github.com/Arthurads-rj/machine-learning-portf-lio) e de [Análise de Dados](https://github.com/Arthurads-rj/analise-dados-portfolio)
 
 - 🌱 Atualmente estou aprendendo **Python, Data Science, Machine Learning e Análise de Dados**
 
