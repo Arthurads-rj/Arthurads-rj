@@ -14,6 +14,9 @@
 - 📄 Veja Meu LinkedIn [https://www.linkedin.com/in/arthur-pacheco-8113b5210/](https://www.linkedin.com/in/arthur-pacheco-8113b5210/)
 
 - ⚡ Fun fact **Eu sou apaixonado por jogos, GameDev, RPG de mesa e coisas do gênero, então em horas vagas terá um projeto ou outro relacionado a isso**
+---
+Me interessei muito por análise de dados a partir do momento que eu tive um pouco de contato com isso trabalhando na prefeitura da minha cidade, em um projeto organizado pela própria prefeitura. Desde então estou estudando e aprendendo cada vez mais e pretendo continuar assim.
+
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
