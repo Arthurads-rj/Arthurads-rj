@@ -1,6 +1,8 @@
 <h1 align="center">Olá! 👋, Eu sou Arthur Pacheco</h1>
 <h3 align="center">Sou um aspirante a Cientista e Analista de Dados</h3>
 
+![imagem pixel art](https://i.imgur.com/alKOfLY.png)
+
 - 🔭 Atualmente estou trabalhando em pequenos [projetos de Machine Learning](https://github.com/Arthurads-rj/machine-learning-portf-lio) e de [Análise de Dados](https://github.com/Arthurads-rj/analise-dados-portfolio)
 
 - 🌱 Atualmente estou aprendendo **Python, Data Science, Machine Learning e Análise de Dados**
@@ -15,7 +17,11 @@
 
 - ⚡ Fun fact **Eu sou apaixonado por jogos, GameDev, RPG de mesa e coisas do gênero, então em horas vagas terá um projeto ou outro relacionado a isso**
 ---
+![imagem pixel art](https://i.imgur.com/n15tBM5.png)
+
 Me interessei muito por análise de dados a partir do momento que eu tive um pouco de contato com isso trabalhando na prefeitura da minha cidade, em um projeto organizado pela própria prefeitura. Desde então estou estudando e aprendendo cada vez mais e pretendo continuar assim.
+
+Além de programação, um dos meus maiores interesses é arte. Faço ilustrações há alguns anos e estou entrando no ramo de pixel arte, pois um dia pretendo fazer um jogo.
 
 
 <h3 align="left">Entre em contato comigo:</h3>
