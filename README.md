@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Eu sou apaixonado por jogos, GameDev, RPG de mesa e coisas do gênero, então em horas vagas terá um projeto ou outro relacionado a isso**
 ---
-![imagem pixel art](https://i.imgur.com/n15tBM5.png)
+![imagem pixel art](https://i.imgur.com/spTWGYv.png)
 
 Me interessei muito por análise de dados a partir do momento que eu tive um pouco de contato com isso trabalhando na prefeitura da minha cidade, em um projeto organizado pela própria prefeitura. Desde então estou estudando e aprendendo cada vez mais e pretendo continuar assim.
 
