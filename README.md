@@ -3,7 +3,7 @@
 
 ![imagem pixel art](https://i.imgur.com/alKOfLY.png)
 
-- 🔭 Atualmente estou trabalhando em pequenos [projetos de Machine Learning](https://github.com/Arthurads-rj/machine-learning-portf-lio) e de [Análise de Dados](https://github.com/Arthurads-rj/analise-dados-portfolio)
+- 🔭 Atualmente estou trabalhando em pequenos [projetos de Machine Learninge E Análise de Dados](https://github.com/Arthurads-rj/portfolio-data-science)
 
 - 🌱 Atualmente estou aprendendo **Python, Data Science, Machine Learning e Análise de Dados**
 
