@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Data Science, Machine Learning e Análise de Dados**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://arthurads-rj.github.io](https://arthurads-rj.github.io)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://sites.google.com/view/portfolio-arthur-pacheco/início?authuser=0](https://sites.google.com/view/portfolio-arthur-pacheco/início?authuser=0)
 
 - 💬 Me pergunte sobre **Python, Análise de Dados, Data Science, Machine Learning**
 
